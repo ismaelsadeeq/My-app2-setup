@@ -1,2 +1,2 @@
-# My-app2-setup
-setting up my server and syncing database to mysql
+# Basic-App
+Express and Node basic connection using sync
